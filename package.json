@@ -1,0 +1,26 @@
+{
+  "name": "get-all-years",
+  "version": "0.0.1",
+  "description": "A scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gartenfeld/cheerio.git"
+  },
+  "keywords": [
+    "cheerio"
+  ],
+  "author": "David Rosson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gartenfeld/cheerio/issues"
+  },
+  "homepage": "https://github.com/gartenfeld/cheerio#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.74.0"
+  }
+}
